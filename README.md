@@ -68,3 +68,14 @@ http://127.0.0.1:8000
 ## Tujuan project
 
 Project ini dibuat untuk mempelajari dasar framework Laravel seperti routing, controller, dan view.
+
+## Screenshot
+
+### About Me
+![Home](docs/about me.png)
+
+### Profile Page
+![Profile](docs/profile.png)
+
+### Portfolio
+![Profile](docs/portfolio.png)
