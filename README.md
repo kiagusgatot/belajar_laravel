@@ -72,7 +72,7 @@ Project ini dibuat untuk mempelajari dasar framework Laravel seperti routing, co
 ## Screenshot
 
 ### About Me
-![Home](docs/about me.png)
+![Home](docs/about-me.png)
 
 ### Profile Page
 ![Profile](docs/profile.png)
